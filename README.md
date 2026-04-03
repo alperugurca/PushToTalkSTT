@@ -2,7 +2,7 @@
 
 # PushToTalkSTT
 
-A Windows speech-to-text app packaged as a single `.exe` file.
+A completely **free** and **offline** Windows speech-to-text app packaged as a single `.exe` file. Powered by the [Cohere Transcribe (03-2026)](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026) model.
 
 ## 🚀 Download & Installation
 

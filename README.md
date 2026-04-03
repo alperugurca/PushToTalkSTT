@@ -2,7 +2,7 @@
 
 # PushToTalkSTT
 
-A completely **free** and **offline** Windows speech-to-text app packaged as a single `.exe` file. Powered by the [Cohere Transcribe (03-2026)](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026) model.
+A completely **free** and **offline** Windows speech-to-text app packaged as a single `.exe` file, specifically designed for **English** language transcription. Powered by the [Cohere Transcribe (03-2026)](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026) model.
 
 ## 🚀 Download & Installation
 
@@ -19,4 +19,4 @@ Due to GitHub's 2GB file size limit, the application has been split into multipl
 1. Double-click the extracted `PushToTalkSTT.exe` to open the app.
 2. Hold **Ctrl + Windows key** to record.
 3. Release the keys to stop.
-4. The app transcribes your speech, copies the text, and pastes it where your cursor is active.
+4. The app transcribes your English speech, copies the text, and pastes it where your cursor is active.
